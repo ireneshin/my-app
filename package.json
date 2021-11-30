@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "homepage": "https://wustlcse204.github.io/08-todo-react-ireneshin",
+  "name": "todo-react",
+  "homepage": "https://wustlcse204.github.io/08-todo-javascript-group-emily-irene/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
